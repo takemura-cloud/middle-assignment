@@ -26,7 +26,7 @@
 
 ## スクリーンショット
 メインビジュアル  
-![トップページ](sugutabe/screenshots/sugutbe-main.png)
+![トップページ](sugutabe/screenshots/sugutabe-main.png)
 
 スマホ表示  
 ![スマホ表示](sugutabe/screenshots/sugutabe-sp.png)
