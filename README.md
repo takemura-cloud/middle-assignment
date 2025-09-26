@@ -22,7 +22,7 @@
 - ナビゲーションの SP/PC 切り替えを実装
 
 ## デモ
-[公開URLはこちら](https://takemura-cloud/middle-assignment/)
+[公開URLはこちら](https://takemura-cloud/middle-assignment.git)
 
 ## スクリーンショット
 メインビジュアル  
