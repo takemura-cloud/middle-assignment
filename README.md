@@ -26,10 +26,10 @@
 
 ## スクリーンショット
 メインビジュアル  
-![トップページ](sugutabe/screenshots/sandai-main.png)
+![トップページ](sugutabe/screenshots/sugutbe-main.png)
 
 スマホ表示  
-![スマホ表示](sugutabe/screenshots/sandai-sp.png)
+![スマホ表示](sugutabe/screenshots/sugutabe-sp.png)
 
 ## 制作期間
 2025年7月（約4週間）
