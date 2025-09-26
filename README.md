@@ -25,7 +25,15 @@
 [公開URLはこちら](https://takemura-cloud/middle-assignment/)
 
 ## スクリーンショット
-（ここにサイトのスクリーンショット画像を貼る）
+メインビジュアル  
+![トップページ](sandai/screenshots/sandai-main.png)
+
+スマホ表示  
+![スマホ表示](sandai/screenshots/sandai-sp.png)
+
+Serviceセクション  
+![Serviceセクション](sandai/screenshots/sandai-service.png)
+
 
 ## 制作期間
 2025年7月（約4週間）
